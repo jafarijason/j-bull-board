@@ -1,6 +1,6 @@
 {
   "name": "j-bull-board",
-  "version": "5.21.4-2",
+  "version": "5.21.4-3",
   "description": "Bull queue UI for inspecting jobs",
   "keywords": [
     "bull",

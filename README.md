@@ -6,4 +6,4 @@ This package is a fork of [bull-board](https://github.com/felixmosh/bull-board).
 
 ## Why This Fork?
 
-I created this fork to reuse some UI components from the original project and adapt them for [your specific use case, e.g., custom integrations, additional features, etc.].
+I created this fork to reuse some UI components from the original project.
