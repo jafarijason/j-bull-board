@@ -1,7 +1,6 @@
 {
-  "name": "@bull-board/root",
+  "name": "j-bull-board",
   "version": "5.21.4",
-  "private": true,
   "description": "Bull queue UI for inspecting jobs",
   "keywords": [
     "bull",
@@ -12,18 +11,19 @@
     "dashboard"
   ],
   "bugs": {
-    "url": "https://github.com/felixmosh/bull-board/issues"
+    "url": "https://github.com/jafarijason/j-bull-board/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felixmosh/bull-board.git"
+    "url": "git+https://github.com/jafarijason/j-bull-board.git"
   },
   "license": "MIT",
   "author": "felixmosh",
   "contributors": [
     "Erik Engervall <erik.engervall@gmail.com>",
     "felixmosh",
-    "Dennis Snijder <dennis@snijder.io>"
+    "Dennis Snijder <dennis@snijder.io>",
+    "Jason Jafari <me@jasonjafari.com>"
   ],
   "workspaces": [
     "packages/*"
